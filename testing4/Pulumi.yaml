@@ -1,0 +1,3 @@
+name: aws-java2
+runtime: java
+description: A minimal AWS Java Pulumi program
