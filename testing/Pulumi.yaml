@@ -1,0 +1,3 @@
+name: azure-2
+runtime: nodejs
+description: A minimal JavaScript Pulumi program with the native Azure provider
